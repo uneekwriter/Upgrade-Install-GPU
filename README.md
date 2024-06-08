@@ -1,7 +1,7 @@
 # Upgrade-Install-GPU
 Virtual Workbench Lab: Upgrade/ Install GPU and Daisy-Chain Monitors
 
- ### [YouTube Demonstration]([https://youtu.be/7eJexJVCqJo](https://youtu.be/ukXAU9UumY4))
+ ### [YouTube Demonstration](https://youtu.be/ukXAU9UumY4)
 
 <h2>Description</h2>
 In this activity, you are upgrading an existing computer to serve as a CAD workstation for a new employee. The workstation must be fitted with a new CAD-optimized PCIe 4.0 x16 graphics adapter with 4 GB video memory and cabled to a dual daisy-chained monitor setup using DisplayPort connectors. The workstation has tool-free access to the system board, but adapter cards must be secured using a screw.
