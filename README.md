@@ -36,41 +36,37 @@ This activity is designed to test your understanding of and ability to apply con
 
 ## 2. Preparing the Workstation
 **Step 1**: Ensure the workstation is powered off and unplugged.  
-![Step 1 - Power off and unplug workstation](images/screenshot_1.png)
+![Step 1 - Power off and unplug workstation](images/DaisyChainMonitors.png)
 
 **Step 2**: Open the case to access the system board. (Tool-free access)  
-![Step 2 - Open the case](images/screenshot_2.png)
+![Step 2 - Open the case](images/RemoveCPUcover.png)
 
 ## 3. Installing the GPU
 **Step 3**: Locate the PCIe 4.0 x16 slot on the motherboard.  
-![Step 3 - Locate PCIe slot](images/screenshot_3.png)
 
 **Step 4**: Remove the slot cover from the case where the GPU will be installed.  
-![Step 4 - Remove slot cover](images/screenshot_4.png)
+![Step 4 - Remove slot cover](images/RemoveBlankingPlates.png)
 
 **Step 5**: Insert the GPU into the PCIe slot and secure it with a screw.  
-![Step 5 - Insert GPU](images/screenshot_5.png)
+![Step 5 - Insert GPU](images/InstallGraphicsCard.png)
 
 ## 4. Connecting the Monitors
 **Step 6**: Identify the DisplayPort connectors on the GPU.  
-![Step 6 - Identify DisplayPort connectors](images/screenshot_6.png)
 
 **Step 7**: Connect the first monitor to the GPU using a DisplayPort cable.  
-![Step 7 - Connect first monitor](images/screenshot_7.png)
 
 **Step 8**: Daisy-chain the second monitor from the first monitor using another DisplayPort cable.  
-![Step 8 - Daisy-chain second monitor](images/screenshot_8.png)
+![Step 8 - Daisy-chain second monitor](images/DaisyChainMonitors.png)
 
 ## 5. Verifying the Installation
 **Step 9**: Close the case and power on the workstation.  
-![Step 9 - Close case and power on](images/screenshot_9.png)
 
 **Step 10**: Boot into the operating system and check the display settings to ensure both monitors are detected and configured correctly.  
-![Step 10 - Check display settings](images/screenshot_10.png)
+![Step 10 - Check display settings](images/EnableDisplayPort.png)
 
 ## 6. Conclusion
 **Step 11**: Confirm that the GPU and monitors are functioning as expected. The workstation is now ready for CAD applications.  
-![Step 11 - Confirm functionality](images/screenshot_11.png)
+![Step 11 - Confirm functionality](images/VerifyDualMonitorSetup.png)
 
 <!--
  ```diff
