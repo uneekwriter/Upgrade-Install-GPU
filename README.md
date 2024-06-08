@@ -23,37 +23,7 @@ This activity is designed to test your understanding of and ability to apply con
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Step-by-Step Walk-Through with Screenshots</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin-left: 20px;
-        }
-        h2, h3 {
-            color: #333;
-        }
-        .gallery img {
-            width: 100%;
-            height: auto;
-        }
-        .gallery {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-        }
-        .gallery div {
-            flex: 1 1 calc(50% - 20px);
-        }
-        .caption {
-            text-align: center;
-            font-size: 14px;
-            margin-top: 10px;
-        }
-    </style>
 </head>
-<body>
-    <h2>Step-by-Step Walk-Through with Screenshots</h2>
     
 # Step-by-Step Walk-Through with Screenshots
 
